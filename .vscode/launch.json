@@ -1,0 +1,129 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "name": "calc",
+            "cwd": "calc",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calc (profile mode)",
+            "cwd": "calc",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calc (release mode)",
+            "cwd": "calc",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "calc_imc",
+            "cwd": "calc_imc",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calc_imc (profile mode)",
+            "cwd": "calc_imc",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calc_imc (release mode)",
+            "cwd": "calc_imc",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "coin_conversor",
+            "cwd": "coin_conversor",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "coin_conversor (profile mode)",
+            "cwd": "coin_conversor",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "coin_conversor (release mode)",
+            "cwd": "coin_conversor",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "iamrich",
+            "cwd": "iamrich",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "iamrich (profile mode)",
+            "cwd": "iamrich",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "iamrich (release mode)",
+            "cwd": "iamrich",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "my_card",
+            "cwd": "my_card",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "my_card (profile mode)",
+            "cwd": "my_card",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "my_card (release mode)",
+            "cwd": "my_card",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "todo_list",
+            "cwd": "todo_list",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "todo_list (profile mode)",
+            "cwd": "todo_list",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "todo_list (release mode)",
+            "cwd": "todo_list",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
